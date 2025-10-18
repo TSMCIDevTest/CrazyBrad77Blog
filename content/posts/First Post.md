@@ -1,6 +1,6 @@
 --- 
 title: First Post 
-date: 2025-18-25 
+date: 2025-10-18 
 draft: false 
 tags: 
 - newblogpost 
