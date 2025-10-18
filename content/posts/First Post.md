@@ -1,6 +1,6 @@
 --- 
 title: First Post 
-date: 2024-11-06 
+date: 2025-18-25 
 draft: false 
 tags: 
 - newblogpost 
@@ -10,3 +10,5 @@ tags:
 Hello is this on!!!
 
 I don't know what to what to here
+
+Bye
